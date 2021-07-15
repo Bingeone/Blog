@@ -1,0 +1,349 @@
+INFO 2021-07-15 11:01:33,933 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 11:01:46,998 urls 28 这是输入信息测试
+INFO 2021-07-15 11:01:46,999 basehttp 161 "GET / HTTP/1.1" 200 4
+INFO 2021-07-15 11:06:07,184 basehttp 161 "GET /static/html/index.html HTTP/1.1" 200 36314
+INFO 2021-07-15 11:06:07,192 basehttp 161 "GET /static/res/images/logo.png HTTP/1.1" 200 2781
+INFO 2021-07-15 11:06:07,193 basehttp 161 "GET /static/res/layui/layui.js HTTP/1.1" 200 6145
+INFO 2021-07-15 11:06:07,193 basehttp 161 "GET /static/res/layui/css/layui.css HTTP/1.1" 200 52950
+INFO 2021-07-15 11:06:07,194 basehttp 161 "GET /static/res/css/global.css HTTP/1.1" 200 49755
+INFO 2021-07-15 11:06:07,208 basehttp 161 "GET /static/res/mods/index.js?v=3.0.0 HTTP/1.1" 200 20160
+INFO 2021-07-15 11:06:07,211 basehttp 161 "GET /static/res/layui/font/iconfont.woff?v=220 HTTP/1.1" 200 24684
+INFO 2021-07-15 11:06:07,229 basehttp 161 "GET /static/res/layui/lay/modules/layer.js?v=3.0.0 HTTP/1.1" 200 22089
+INFO 2021-07-15 11:06:07,244 basehttp 161 "GET /static/res/layui/css/modules/layer/default/layer.css?v=3.1.0 HTTP/1.1" 200 14425
+INFO 2021-07-15 11:06:07,245 basehttp 161 "GET /static/res/layui/lay/modules/jquery.js?v=3.0.0 HTTP/1.1" 200 97651
+INFO 2021-07-15 11:06:07,276 basehttp 161 "GET /static/res/layui/lay/modules/laytpl.js?v=3.0.0 HTTP/1.1" 200 1836
+INFO 2021-07-15 11:06:07,279 basehttp 161 "GET /static/res/layui/lay/modules/form.js?v=3.0.0 HTTP/1.1" 200 7496
+INFO 2021-07-15 11:06:07,285 basehttp 161 "GET /static/res/layui/lay/modules/element.js?v=3.0.0 HTTP/1.1" 200 7461
+INFO 2021-07-15 11:06:07,300 basehttp 161 "GET /static/res/layui/lay/modules/upload.js?v=3.0.0 HTTP/1.1" 200 6680
+INFO 2021-07-15 11:06:07,305 basehttp 161 "GET /static/res/layui/lay/modules/util.js?v=3.0.0 HTTP/1.1" 200 2443
+INFO 2021-07-15 11:06:07,311 basehttp 161 "GET /static/res/mods/face.js?v=3.0.0 HTTP/1.1" 200 6371
+INFO 2021-07-15 11:06:25,440 urls 28 这是输入信息测试
+INFO 2021-07-15 11:06:25,441 basehttp 161 "GET / HTTP/1.1" 200 4
+INFO 2021-07-15 11:07:49,649 basehttp 161 "GET /static/views/index.html HTTP/1.1" 200 4379
+INFO 2021-07-15 11:09:05,000 basehttp 161 "GET /static/views/404.html HTTP/1.1" 200 642
+INFO 2021-07-15 11:11:48,555 basehttp 161 "GET /static/views/user/login.html HTTP/1.1" 200 2961
+INFO 2021-07-15 11:13:38,274 basehttp 75 - Broken pipe from ('127.0.0.1', 53021)
+
+INFO 2021-07-15 11:13:38,274 basehttp 75 - Broken pipe from ('127.0.0.1', 53020)
+
+INFO 2021-07-15 12:33:11,965 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 12:41:07,755 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 12:45:14,066 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 12:54:27,742 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 13:00:33,509 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 13:08:53,684 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 14:16:14,800 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 14:16:38,899 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 14:19:16,740 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 15:59:18,117 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 16:00:05,264 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 16:08:15,206 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 16:11:32,350 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 16:27:06,019 autoreload 636 Watching for file changes with StatReloader
+INFO 2021-07-15 16:42:04,385 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 17:12:36,190 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 17:13:28,052 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 17:23:11,140 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 17:30:08,698 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 17:30:50,395 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 17:31:30,581 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 17:32:37,274 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-15 17:58:17,584 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-15 17:59:02,289 log 224 Not Found: /
+WARNING 2021-07-15 17:59:02,289 basehttp 161 "GET / HTTP/1.1" 404 2230
+INFO 2021-07-15 17:59:12,949 basehttp 75 - Broken pipe from ('127.0.0.1', 58124)
+
+INFO 2021-07-15 17:59:29,087 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-15 17:59:30,469 log 224 Not Found: /
+WARNING 2021-07-15 17:59:30,469 basehttp 161 "GET / HTTP/1.1" 404 2230
+INFO 2021-07-15 17:59:44,959 basehttp 161 "GET /register HTTP/1.1" 301 0
+ERROR 2021-07-15 17:59:45,079 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\defaulttags.py", line 1034, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\Python\wenjian2\myblog\Blog\blog\users\views.py", line 11, in get
+    return render(request, 'register.html')
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\loaders\base.py", line 29, in get_template
+    return Template(
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\base.py", line 478, in parse
+    raise self.error(token, e)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\defaulttags.py", line 1091, in load
+    lib = find_library(parser, name)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\defaulttags.py", line 1036, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2021-07-15 17:59:45,079 basehttp 161 "GET /register/ HTTP/1.1" 500 153883
+INFO 2021-07-15 17:59:53,899 basehttp 75 - Broken pipe from ('127.0.0.1', 58126)
+
+INFO 2021-07-15 18:00:15,595 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-15 18:00:17,009 log 224 Not Found: /
+WARNING 2021-07-15 18:00:17,009 basehttp 161 "GET / HTTP/1.1" 404 2230
+ERROR 2021-07-15 18:00:21,989 log 224 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\defaulttags.py", line 1034, in find_library
+    return parser.libraries[name]
+KeyError: 'staticfiles'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\Python\wenjian2\myblog\Blog\blog\users\views.py", line 11, in get
+    return render(request, 'register.html')
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\loaders\base.py", line 29, in get_template
+    return Template(
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\base.py", line 193, in compile_nodelist
+    return parser.parse()
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\base.py", line 478, in parse
+    raise self.error(token, e)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\defaulttags.py", line 1091, in load
+    lib = find_library(parser, name)
+  File "D:\Python\wenjian2\myblog\env_2\env_2-5O0B9dG-\lib\site-packages\django\template\defaulttags.py", line 1036, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'staticfiles' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2021-07-15 18:00:21,989 basehttp 161 "GET /register/ HTTP/1.1" 500 153883
+INFO 2021-07-15 18:00:40,039 basehttp 75 - Broken pipe from ('127.0.0.1', 58140)
+
+INFO 2021-07-15 18:06:05,159 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-15 18:06:07,360 log 224 Not Found: /
+WARNING 2021-07-15 18:06:07,360 basehttp 161 "GET / HTTP/1.1" 404 2230
+INFO 2021-07-15 18:06:12,720 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+INFO 2021-07-15 18:06:12,730 basehttp 161 "GET /static/js/register.js HTTP/1.1" 200 6575
+INFO 2021-07-15 18:06:12,730 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-15 18:06:12,730 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 919
+INFO 2021-07-15 18:06:12,730 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12949
+INFO 2021-07-15 18:06:12,730 basehttp 161 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-15 18:06:12,730 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 300254
+WARNING 2021-07-15 18:06:12,788 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:06:12,788 basehttp 161 "GET /imagecode/?uuid=ac2fbc29-8a62-4ee9-b6fe-15b15c59564e HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:06:20,231 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:06:20,231 basehttp 161 "GET /imagecode/?uuid=93a6860c-3900-4d31-b2f4-70e81ed929e1 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:06:21,950 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:06:21,950 basehttp 161 "GET /imagecode/?uuid=0d7e8e6e-b9fa-418c-8ffb-a944c5128f5f HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:06:41,400 log 224 Not Found: /register/login.html
+WARNING 2021-07-15 18:06:41,400 basehttp 161 "GET /register/login.html HTTP/1.1" 404 2305
+INFO 2021-07-15 18:06:43,360 basehttp 75 - Broken pipe from ('127.0.0.1', 58272)
+
+INFO 2021-07-15 18:06:43,360 basehttp 75 - Broken pipe from ('127.0.0.1', 58284)
+
+INFO 2021-07-15 18:06:43,360 basehttp 75 - Broken pipe from ('127.0.0.1', 58286)
+
+INFO 2021-07-15 18:06:43,360 basehttp 75 - Broken pipe from ('127.0.0.1', 58285)
+
+INFO 2021-07-15 18:06:43,360 basehttp 75 - Broken pipe from ('127.0.0.1', 58287)
+
+INFO 2021-07-15 18:06:43,360 basehttp 75 - Broken pipe from ('127.0.0.1', 58288)
+
+INFO 2021-07-15 18:10:53,886 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-07-15 18:10:55,900 log 224 Not Found: /
+WARNING 2021-07-15 18:10:55,900 basehttp 161 "GET / HTTP/1.1" 404 2230
+INFO 2021-07-15 18:11:02,010 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:11:02,070 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:11:02,070 basehttp 161 "GET /imagecode/?uuid=2d30945c-cd7d-4818-9d62-add6fe82d34a HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:11:04,480 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:11:04,480 basehttp 161 "GET /imagecode/?uuid=ebc42fa6-b7af-4dc1-b53f-31cbe09495c2 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:11:06,150 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:11:06,150 basehttp 161 "GET /imagecode/?uuid=d490a356-279e-46d9-8182-c9fd489b786b HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:11:06,670 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:11:06,670 basehttp 161 "GET /imagecode/?uuid=01a6df0f-1a21-4b57-b83c-db9902d74201 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:11:09,090 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:11:09,090 basehttp 161 "GET /imagecode/?uuid=780f16f0-a5ef-4218-a967-5ae4a977e85a HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:11:10,550 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:11:10,550 basehttp 161 "GET /imagecode/?uuid=a9887229-9d23-4bc0-935a-17504ffef741 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:11:10,890 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:11:10,890 basehttp 161 "GET /imagecode/?uuid=81c3be93-99d1-40ad-9687-1c5f3ff68c3f HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:11:11,140 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:11:11,140 basehttp 161 "GET /imagecode/?uuid=e909ed65-7c8a-4fbd-9bf5-fc0e1ead1697 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:12:06,450 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+INFO 2021-07-15 18:12:06,460 basehttp 161 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 18:12:06,460 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 18:12:06,460 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2021-07-15 18:12:06,460 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-15 18:12:06,460 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-15 18:12:06,460 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+WARNING 2021-07-15 18:12:06,511 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:12:06,511 basehttp 161 "GET /imagecode/?uuid=655caabf-785c-4e59-a097-1208f3e0e349 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:13:43,385 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:13:43,385 basehttp 161 "GET /imagecode/?uuid=252a8938-2a33-4747-8b31-8405e7be1593 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:13:46,085 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:13:46,085 basehttp 161 "GET /imagecode/?uuid=33ef2e42-0825-44d9-b54a-e794423f0bbd HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:13:46,612 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:13:46,613 basehttp 161 "GET /imagecode/?uuid=ccd336cb-26d8-4515-a2f9-526408ec5755 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:18:18,347 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+INFO 2021-07-15 18:18:18,352 basehttp 161 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 18:18:18,353 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 18:18:18,353 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2021-07-15 18:18:18,353 basehttp 161 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2021-07-15 18:18:18,353 basehttp 161 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2021-07-15 18:18:18,354 basehttp 161 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2021-07-15 18:18:18,400 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:18:18,401 basehttp 161 "GET /imagecode/?uuid=05bae666-9d41-4b90-8bba-34eaf8295360 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:18:31,028 basehttp 75 - Broken pipe from ('127.0.0.1', 58602)
+
+INFO 2021-07-15 18:18:31,028 basehttp 75 - Broken pipe from ('127.0.0.1', 58603)
+
+INFO 2021-07-15 18:18:31,028 basehttp 75 - Broken pipe from ('127.0.0.1', 58600)
+
+INFO 2021-07-15 18:18:31,029 basehttp 75 - Broken pipe from ('127.0.0.1', 58604)
+
+INFO 2021-07-15 18:18:31,029 basehttp 75 - Broken pipe from ('127.0.0.1', 58601)
+
+INFO 2021-07-15 18:18:31,029 basehttp 75 - Broken pipe from ('127.0.0.1', 58605)
+
+WARNING 2021-07-15 18:18:50,924 log 224 Not Found: /
+WARNING 2021-07-15 18:18:50,924 basehttp 161 "GET / HTTP/1.1" 404 2230
+INFO 2021-07-15 18:19:02,067 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+INFO 2021-07-15 18:19:02,099 basehttp 161 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2021-07-15 18:19:02,115 basehttp 161 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2021-07-15 18:19:02,115 basehttp 161 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12949
+INFO 2021-07-15 18:19:02,116 basehttp 161 "GET /static/js/register.js HTTP/1.1" 200 6575
+INFO 2021-07-15 18:19:02,116 basehttp 161 "GET /static/js/common.js HTTP/1.1" 200 919
+INFO 2021-07-15 18:19:02,117 basehttp 161 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 300254
+WARNING 2021-07-15 18:19:02,154 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:19:02,155 basehttp 161 "GET /imagecode/?uuid=4eb278fd-bff9-4151-9fa3-83b7959cff01 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:19:02,221 log 224 Not Found: /favicon.ico
+WARNING 2021-07-15 18:19:02,221 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2281
+WARNING 2021-07-15 18:19:07,256 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:19:07,256 basehttp 161 "GET /imagecode/?uuid=e59098a3-2182-4046-9c73-c19a17da1916 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:19:10,470 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:19:10,533 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:19:10,533 basehttp 161 "GET /imagecode/?uuid=e9eb6fc9-0bda-49d9-a6c2-88140b2af73e HTTP/1.1" 404 2320
+INFO 2021-07-15 18:20:35,486 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:20:35,535 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:20:35,535 basehttp 161 "GET /imagecode/?uuid=75610aa5-2dde-40b9-bd49-7877a9dd2c72 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:20:37,646 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:20:37,693 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:20:37,693 basehttp 161 "GET /imagecode/?uuid=974292b8-6fc6-409a-b71a-64ad25e83c87 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:20:39,831 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:20:39,832 basehttp 161 "GET /imagecode/?uuid=915d25f1-6ed6-4c4a-a996-7ed559349ebe HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:20:40,702 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:20:40,702 basehttp 161 "GET /imagecode/?uuid=adb4e210-ecea-4479-9ee8-ac91e551d83c HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:20:41,248 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:20:41,248 basehttp 161 "GET /imagecode/?uuid=441bd5bc-cd17-4e31-a563-f03095c61561 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:20:42,527 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:20:42,574 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:20:42,574 basehttp 161 "GET /imagecode/?uuid=a486db2b-7d78-4433-9e2d-a5f9b71cfaa1 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:20:53,326 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:20:53,375 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:20:53,376 basehttp 161 "GET /imagecode/?uuid=5a23a565-ddb8-43be-8af4-f8832b31f4f8 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:21:10,903 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:21:10,960 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:21:10,961 basehttp 161 "GET /imagecode/?uuid=57259abf-02da-4379-a198-58ee428c6ccc HTTP/1.1" 404 2320
+INFO 2021-07-15 18:21:11,671 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:21:11,716 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:21:11,717 basehttp 161 "GET /imagecode/?uuid=137656a2-3980-4b30-9624-531517e5ed9b HTTP/1.1" 404 2320
+INFO 2021-07-15 18:21:12,399 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:21:12,444 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:21:12,444 basehttp 161 "GET /imagecode/?uuid=4fd4c39e-a4ee-45ac-ac55-2e0bccb9af47 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:21:15,398 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:21:15,442 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:21:15,443 basehttp 161 "GET /imagecode/?uuid=32e54b2c-8a39-4497-8d89-3de34a8243d1 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:21:16,687 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:21:16,687 basehttp 161 "GET /imagecode/?uuid=51428858-9657-4f4f-a8ef-343f88a9aa20 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:21:17,606 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:21:17,606 basehttp 161 "GET /imagecode/?uuid=291e7632-e783-4f6d-8d40-46a3784aa1d0 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:21:30,887 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:21:30,887 basehttp 161 "GET /imagecode/?uuid=0a315a13-9925-482c-884a-6dc8ca5006bc HTTP/1.1" 404 2320
+INFO 2021-07-15 18:31:05,039 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:31:05,112 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:31:05,112 basehttp 161 "GET /imagecode/?uuid=dc8d334d-627a-44da-9c57-9656fd98b39f HTTP/1.1" 404 2320
+INFO 2021-07-15 18:31:05,880 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:31:05,928 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:31:05,929 basehttp 161 "GET /imagecode/?uuid=3e307013-710d-41e8-b31b-8a15e35c6a9a HTTP/1.1" 404 2320
+INFO 2021-07-15 18:32:51,800 basehttp 161 "GET /register/ HTTP/1.1" 200 5429
+INFO 2021-07-15 18:32:51,830 basehttp 161 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+WARNING 2021-07-15 18:32:51,865 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:32:51,866 basehttp 161 "GET /imagecode/?uuid=c50d4d17-0a4a-4723-852e-4c517652926d HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:32:53,719 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:32:53,720 basehttp 161 "GET /imagecode/?uuid=a3a30012-89e3-4270-aad0-a651a7f989be HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:32:55,327 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:32:55,328 basehttp 161 "GET /imagecode/?uuid=c788610a-90a4-4912-baef-214a3dc0d836 HTTP/1.1" 404 2320
+WARNING 2021-07-15 18:32:56,919 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:32:56,919 basehttp 161 "GET /imagecode/?uuid=07397930-51d3-4c9c-883c-bdaa7199c5ba HTTP/1.1" 404 2320
+INFO 2021-07-15 18:32:58,225 basehttp 161 "GET /register/ HTTP/1.1" 200 5429
+WARNING 2021-07-15 18:32:58,270 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:32:58,270 basehttp 161 "GET /imagecode/?uuid=1dc21018-0a0b-435e-a3e8-cfff629491ee HTTP/1.1" 404 2320
+INFO 2021-07-15 18:32:59,152 basehttp 161 "GET /register/ HTTP/1.1" 200 5429
+WARNING 2021-07-15 18:32:59,198 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:32:59,199 basehttp 161 "GET /imagecode/?uuid=cc4c7b32-6628-47a2-89a2-07f0ba8fa572 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:33:00,734 basehttp 161 "GET /register/ HTTP/1.1" 200 5429
+WARNING 2021-07-15 18:33:00,789 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:33:00,790 basehttp 161 "GET /imagecode/?uuid=5c6b176d-4479-484f-816a-225e8aca6662 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:35:31,855 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:35:31,920 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:35:31,921 basehttp 161 "GET /imagecode/?uuid=b0b37eb0-8a8b-44ff-855e-3c3d03f653e7 HTTP/1.1" 404 2320
+INFO 2021-07-15 18:35:33,687 basehttp 161 "GET /register/ HTTP/1.1" 200 5321
+WARNING 2021-07-15 18:35:33,733 log 224 Not Found: /imagecode/
+WARNING 2021-07-15 18:35:33,734 basehttp 161 "GET /imagecode/?uuid=ce9fd14f-2577-444b-881e-1d3c17258647 HTTP/1.1" 404 2320
